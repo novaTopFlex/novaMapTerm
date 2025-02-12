@@ -7,4 +7,4 @@ A simple hybrid Terminal and OpenStreetMap interface written in Go.
 ***
 These three essential dependencies should be automatically installed (if the included commands function properly) with the command `./InstallPrereqs.sh` from within the project directory.
 # Credits
-Map data (C) [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
+Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors.
